@@ -462,7 +462,7 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .hero {
-  background: url("https://raw.githubusercontent.com/sthefanyspina/Movieflix2/main/wallpaperflare.com_wallpaper.jpg") no-repeat;
+  background: url("https://raw.githubusercontent.com/sthefanyspina/Movieflix2/main/assets/images/wallpaperflare.com_wallpaper.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 750px;
